@@ -44,13 +44,13 @@ body{
 
    .btn-primary{
       font-weight: 600;
-      border-radius: 4rem;
+      border-radius: 2px;
       padding: 0.5rem 1.2rem;
    }
 
    .btn-outline-secondary{
       font-weight: 600;
-      border-radius: 4rem;
+      border-radius: 2px;
       padding: 0.5rem 1.2rem;
    }
 
@@ -174,7 +174,7 @@ section{
          align-items: center;
          margin-top: 3rem;
          img{
-            border-radius: 2rem;
+            border-radius: 2px;
             margin-bottom: 1rem;
    
          }
@@ -234,7 +234,7 @@ section{
       min-height: 20rem;
       position: relative;
       margin: 0px;
-      border-radius: 2rem;
+      border-radius: 2px;
 
       .how-step{
          width: 100%;
@@ -286,7 +286,7 @@ section{
       height: 100%;
       padding: 2rem 1.5rem;
       text-align: center;
-      border-radius: 2rem;
+      border-radius: 2px;
       
       i{
          font-size: 1.5rem;
@@ -329,7 +329,7 @@ section{
             gap: 2rem;
             li{
                min-width: 12rem;
-               border-radius: 1.5rem;
+               border-radius: 2px;
                background-color: var(--bs-primary-color);
                display: inline-flex;
                flex-direction: column;
@@ -355,7 +355,7 @@ section{
          gap: 2rem;
 
          li {
-            border-radius: 4rem;
+            border-radius: 2px;
             border: 1px solid var(--bs-secondary-color);
             color: var(--bs-secondary-color);
             display: inline-flex;
@@ -409,13 +409,13 @@ section{
       max-width:40rem;
       margin:0 auto;
       background-color:#00000000;
-      border-radius: 2rem;
+      border-radius: 2px;
       .form-control{
          background-color:hsla(0,0%,100%,.8);
          padding:0 2rem;
          letter-spacing:1px;
          border:none;
-         border-radius: 2rem;
+         border-radius: 2px;
          &:focus{
             z-index:2;
             background-color:none;
@@ -426,7 +426,7 @@ section{
    }
    
    .form-subscribe .btn{
-      border-radius: 0rem 2rem 2rem 0rem;
+      border-radius: 2px;
    }
 }
 
@@ -459,7 +459,7 @@ section{
    
    .contact-form{
       padding: 2rem;
-      border-radius: 2rem;
+      border-radius: 2px;
       .form-group{
          margin-bottom: 1rem;
          .form-control ::placeholder{
@@ -488,7 +488,7 @@ section{
          .social-icon{
             background-color: var(--bs-overlay);
             padding: 1rem;
-            border-radius: 8rem;
+            border-radius: 2px;
             &:hover{
                background-color: var(--bs-primary-color);
                color: white;
@@ -519,7 +519,7 @@ section{
          object-fit: cover;
          max-height: 16rem;
          margin-bottom: 1rem;
-         border-radius: 2rem;
+         border-radius: 2px;
          overflow: hidden;
       }
       h3{
@@ -536,14 +536,14 @@ section{
 
 .stats{
    .stats-card{
-      border-radius: 2rem;
+      border-radius: 2px;
    }
 }
 
 .services{
    .service-card{
       background-color: var(--bs-background-light);
-      border-radius: 2rem;
+      border-radius: 2px;
       .card-body{
          padding: 2rem 2rem 2rem 2rem;
          text-align: center;
