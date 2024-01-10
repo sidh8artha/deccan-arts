@@ -1,0 +1,41 @@
+<!-- <form method="POST" id="subscribe_form" class="subscribe-form-check-1 row" name="subscribe_form"
+                    action="">
+
+                    <label for="name_input" class="form-label">Full Name</label>
+                    <input aria-label="Full Name" type="text" name="name" placeholder="Full Name" required>
+                    <label for="email_input" class="form-label">Full Name</label>
+                    <input type="email" name="email" placeholder="Email" required
+                        pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$">
+                    <label for="name_input" class="form-label">Full Name</label>
+                    <input type="password" name="password" placeholder="Password" required minlength="4">
+                    <p>The password must be > 4 char</p>
+
+                    <input type="submit" value="Register" disabled>
+                    <input type="submit" value="Register">
+
+                </form>
+
+                <form id="subscribe_form" class="subscribe-form row" name="subscribe_form" method="post" novalidate
+                    action="">
+                    <div class="form-group col-12 col-md-4">
+                        <label for="name_input" class="form-label">Full Name</label>
+                        <input type="text" class="form-control input-lg" name="Name"
+                            placeholder="Eg. Amar Akbar Anthoni" required pattern="^[a-z0-9]{3,15}$">
+                        <div class="invalid-feedback">Please provide your name</div>
+                    </div>
+                    <div class="form-group col-12 col-md-4">
+                        <label for="email_addr" class="form-label">Email address</label>
+                        <input type="email" class="form-control input-lg" name="Email" placeholder="Your eamil address"
+                            aria-required="false" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$">
+                        <div class="invalid-feedback">Please enter your email address</div>
+                    </div>
+                    <div class="form-group col-12 col-md-4">
+                        <label for="phone_input" class="form-label">Phone</label>
+                        <input type="text" class="form-control input-lg" name="City" placeholder="Your eamil address"
+                            required pattern="^[a-z0-9]{3,15}$">
+                        <div class="invalid-feedback">Please Provide your phone number</div>
+                    </div>
+                    <div class="action text-end">
+                        <button type="submit" class="btn btn-outline-secondary poet-form-button">Submit</button>
+                    </div>
+                </form> -->
