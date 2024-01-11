@@ -62,22 +62,6 @@ header .navbar {
 header .navbar .navbar-toggler {
   border: 0;
 }
-header .navbar .show {
-  background-color: var(--bs-gray-100);
-  margin-top: 1.2rem;
-  padding-bottom: 10rem;
-  padding-left: 3.5rem;
-}
-header .navbar .show .navbar-nav .nav-item .nav-link {
-  margin-top: 0;
-  padding: 0.5rem 0;
-}
-header .navbar .show .navbar-nav .nav-item .dropdown-menu {
-  margin-top: 0;
-  padding-bottom: 0.5rem;
-  margin-bottom: 1rem;
-  padding-left: 0rem;
-}
 header .navbar .navbar-brand {
   display: flex;
   flex-direction: row;
@@ -110,7 +94,7 @@ header .navbar .navbar-nav .nav-item .nav-link.active, header .navbar .navbar-na
 }
 
 .header-backdrop {
-  height: 6rem;
+  height: 4.5rem;
   background-color: aqua;
 }
 
