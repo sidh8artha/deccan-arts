@@ -411,6 +411,12 @@ section .container {
   list-style-type: none;
   padding-left: 0;
 }
+.challenge .prompt {
+  margin-top: 2rem;
+}
+.challenge .prompt h4 {
+  margin-bottom: 1.5rem;
+}
 .challenge .prompt ul {
   display: flex;
   flex-direction: row;

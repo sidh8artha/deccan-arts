@@ -445,6 +445,8 @@ section{
         }
     }
     .prompt{
+        margin-top: 2rem;
+        h4{margin-bottom: 1.5rem;}
         ul{
             display: flex;
             flex-direction: row;
@@ -452,9 +454,9 @@ section{
             padding-left: 0;
             gap: 1rem;
             list-style: none;
-
             li{
                 display: flex;
+                // width: 100%;
                 justify-content: center;
                 text-align: center;
                 padding: 1rem 2rem;
