@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="Deccan Arts Publications" content="Deccan Art Publications">
+    <meta name="generator" content="Hugo 0.118.2">
+    <title>Deccan Arts Publications | Home Page</title>
+
+    <link rel="canonical" href="">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="assets/dist/css/bootstrap.min.css">
+    <!-- Bootstrap Icon CSS -->
+    <link rel="stylesheet" href="assets/dist/css/font/bootstrap-icons.min.css">
+
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets//favicon-16x16.png">
+    <link rel="manifest" href="assets/favicon/site.webmanifest">
+    <link rel="mask-icon" href="assets/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#1e90ff">
+
+    <!-- Custom Css -->
+    <link rel="stylesheet" href="assets/dist/css/main.css">
+
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg fixed-top" aria-label="navbar">
+            <div class="container col-lg-8 px-4">
+                <a class="navbar-brand" href="index.html">
+                    <img src="assets/brand/deccan-arts-logo-dogerblue-2.svg" alt="">
+                    <div class="brand-name">
+                        <div class="top">Deccan Arts</div>
+                        <div class="bot">Publication</div>
+                    </div>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarsExample07" aria-controls="navbarsExample07" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!--
+                <div class="collapse navbar-collapse" id="navbarsExample07">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="about-us.html">About</a>
+                        </li>
+                         
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"
+                                    aria-expanded="false">For Writers</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="500-words-fiction.html">500 Words Fiction</a></li>
+                                    <li><a class="dropdown-item" href="publish-now.html">Poetry Slam Book</a></li>
+                                    <li><a class="dropdown-item" href="publish-now.html">Book Publishing</a></li>
+                                    <li><a class="dropdown-item" href="contact-us.html">Sibling Love Story</a></li>
+                                </ul>
+                            </li>
+                    </ul>
+                    <a href="free-book.html" class="btn btn-primary">Free Book</a> 
+                    <a href="submit-story.html" class="btn btn-primary">Submit Story</a>
+                </div>
+                -->
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="header-backdrop">
+        </section>
+
+        <section class="hero">
+            <div class="container col-lg-8 text-only">
+                <h1 class="display-3 fw-bolder">
+                    Win ₹500 Cash Prize Now
+                </h1>
+                <h2 class="h4 fw-light">
+                    If you are writer? Then you can earn from your writing.
+                </h2>
+
+            </div>
+        </section>
+
+        <section class="product pt-0">
+            <div class="container col-lg-8">
+                <div class="row row-cols-1 row-cols-md-2 g-4">
+                    <div class="col">
+                        <div class="card product-card" onclick="window.location.href='500-words-fiction.html';">
+                            <div class="card-body">
+                                <h3 class="h6 card-title fw-light">Win Cash ₹500.00</h3>
+                                <img src="assets/images/other/500-words-fiction.jpg" class="card-img-top" alt="...">
+                                <h5 class="card-title fw-bold">500 Words Fiction</h5>
+                                <p class="card-text fw-light">An open-to-all challenge, where writers will craft their
+                                    500-word story full of plots, characters, and mind-blowing twists. The top 10
+                                    stories will be published as a book.
+                                </p>
+                                <div class="action text-end">
+                                    <a href="500-words-fiction.html" class="btn btn-outline-primary">Win Prize</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card product-card" onclick="window.location.href='publish-now.html';">
+                            <div class="card-body">
+                                <h3 class="h6 card-title fw-light">Poet Love</h3>
+                                <img src="assets/images/other/poetry-slam-book.jpg" class="card-img-top" alt="...">
+                                <h5 class="card-title fw-bold">Poetry Slam Book</h5>
+                                <p class="card-text fw-light">Submit your collection of poems and we will
+                                    come back to you with a published book. Publish your bounded emotions,
+                                    vivid imagery, and profound thoughts.
+                                </p>
+                                <div class="action text-end">
+                                    <a href="publish-now.html" class="btn btn-outline-primary">Publish Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card product-card" onclick="window.location.href='publish-now.html';">
+                            <div class="card-body">
+                                <h3 class="h6 card-title fw-light">Publish at ₹1999.99</h3>
+                                <img src="assets/images/other/book-publishing.jpg" class="card-img-top" alt="...">
+                                <h5 class="card-title fw-bold">Book Publishing</h5>
+                                <p class="card-text fw-light">With our simple, straightforward process of book
+                                    publication, you have a golden chance to become a top-selling author. We value your
+                                    creativity and awesome narrative skills.
+                                </p>
+                                <div class="action text-end">
+                                    <a href="publish-now.html" class="btn btn-outline-primary">Earn Royalty</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card product-card" onclick="window.location.href='contact-us.html';">
+                            <div class="card-body">
+                                <h3 class="h6 card-title fw-light">Get Free Book</h3>
+                                <img src="assets/images/other/sibling-love.jpg" class="card-img-top" alt="...">
+                                <h5 class="card-title fw-bold">Sibling Love</h5>
+                                <p class="card-text fw-light">Gift for your kids, get a customized storybook, showcasing
+                                    the love and emotional bond of the siblings. Brothers-brother, sister-sister or
+                                    brother-sister get it now.
+                                </p>
+                                <div class="action text-end">
+                                    <a href="free-book.html" class="btn btn-outline-primary">Get Book</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="partners">
+            <div class="container col-lg-8">
+                <h2>Online Selling Platforms</h2>
+                <div class="img-slider">
+                    <img src="assets/images/partners/amazon.png" alt="">
+                    <img src="assets/images/partners/flipkart.png" alt="">
+                    <img src="assets/images/partners/paytm.png" alt="">
+                    <img src="assets/images/partners/sapna.png" alt="">
+                    <img src="assets/images/partners/google.png" alt="">
+                    <img src="assets/images/partners/bookwagon.png" alt="">
+                    <img src="assets/images/partners/bookchor.png" alt="">
+                </div>
+            </div>
+        </section>
+
+        <section class="how">
+            <div class="container col-lg-8">
+                <h2>How it Works</h2>
+                <div class="row row-cols-1 row-cols-md-3 g-4">
+                    <div class="col">
+                        <div class="card how-card">
+                            <div class="card-body">
+                                <i class="bi bi-link-45deg"></i>
+                                <hr>
+                                <h3 class="card-title fw-bold">Connect</h3>
+                                <p class="card-text fw-light">Let's become friends, and join your thriving community of
+                                    emerging writers, poets, and authors. Get alerts about publishing offers and
+                                    upcoming contests.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card how-card">
+                            <div class="card-body">
+                                <i class="bi bi-file-earmark-arrow-up"></i>
+                                <hr>
+                                <h3 class="card-title fw-bold">Submit</h3>
+                                <p class="card-text fw-light">Into monthly short story contests or publishing books.
+                                    Simply submit your manuscripts to our official page. We will get back to you with
+                                    some good news.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card how-card">
+                            <div class="card-body">
+                                <i class="bi bi-currency-rupee"></i>
+                                <hr>
+                                <h3 class="card-title fw-bold">Earn</h3>
+                                <p class="card-text fw-light">Winning monthly via contest, or earning daily with 100%
+                                    royalty. Now it's your time to cash your bags full of wealth and happiness. So what
+                                    are waiting for?</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="authors">
+            <div class="container col-lg-8">
+                <h2>Some published Authors</h2>
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 g-4">
+                    <div class="col">
+                        <div class="card author-card h-100" onclick="window.location.href='authors/siddharth-b.html';">
+                            <div class="card-body">
+                                <img src="authors/siddharth-b.jpg" class="card-img-top" alt="...">
+                                <h5 class="card-title fw-bold">Siddharth B</h5>
+                                <p class="card-text fw-light">An versatile creator excelling in writing, design, and
+                                    engineering, shaping worlds with words, visuals, and innovation.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card author-card h-100" onclick="window.location.href='authors/ravi-n.html';">
+                            <div class="card-body">
+                                <img src="authors/ravi-n.jpg" class="card-img-top" alt="...">
+                                <h5 class="card-title fw-bold">Ravi N</h5>
+                                <p class="card-text fw-light">He is visionary — directing narratives, painting
+                                    tales, and crafting visual symphonies with a masterful touch.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="action text-end mt-4">
+                    <a href="authors/all-authors.html" class="btn btn-outline-primary">View All</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="why">
+            <div class="container col-lg-8">
+                <h2>Why Us</h2>
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4">
+                    <div class="col">
+                        <div class="card why-card">
+                            <div class="card-body">
+                                <i class="bi bi-wallet2"></i>
+                                <h3 class="h6 card-title fw-bold">Lowest Cost Package</h3>
+                                <p class="card-text">Explore our affordable publishing package, delivering
+                                    top-quality services without straining your budget.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card why-card">
+                            <div class="card-body">
+                                <i class="bi bi-person"></i>
+                                <h3 class="h6 card-title fw-bold">Author Bio Pages</h3>
+                                <p class="card-text">Engage readers with personalized author bios, sharing your story
+                                    and connecting on a deeper level.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card why-card">
+                            <div class="card-body">
+                                <i class="bi bi-journal"></i>
+                                <h3 class="h6 card-title fw-bold">Multiple Printing Options</h3>
+                                <p class="card-text">From hardcover to custom formats, choose diverse printing options
+                                    to match your book's vision.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card why-card">
+                            <div class="card-body">
+                                <i class="bi bi-upc-scan"></i>
+                                <h3 class="h6 card-title fw-bold">Free ISBN</h3>
+                                <p class="card-text">Get discovered globally with a complimentary ISBN, ensuring easy
+                                    cataloging and accessibility.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card why-card">
+                            <div class="card-body">
+                                <i class="bi bi-c-circle"></i>
+                                <h3 class="h6 card-title fw-bold">Complete Copyright</h3>
+                                <p class="card-text">Safeguard your creativity with comprehensive copyright protection
+                                    throughout publishing.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card why-card">
+                            <div class="card-body">
+                                <i class="bi bi-percent"></i>
+                                <h3 class="h6 card-title fw-bold">100% Royalty</h3>
+                                <p class="card-text">Enjoy full royalties on every sale, ensuring fair returns for your
+                                    literary achievements.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card why-card">
+                            <div class="card-body">
+                                <i class="bi bi-layers"></i>
+                                <h3 class="h6 card-title fw-bold">Lifetime Inventory</h3>
+                                <p class="card-text">Ensure perpetual availability of your book with a lifetime
+                                    inventory solution.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card why-card">
+                            <div class="card-body">
+                                <i class="bi bi-shop-window"></i>
+                                <h3 class="h6 card-title fw-bold">Physical Store Support</h3>
+                                <p class="card-text">Expand reach with dedicated support for placement in physical
+                                    bookstores, enhancing visibility.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="poets">
+            <div class="container col-lg-8">
+                <h2>Register as writer/author</h2>
+                <form id="subscribe_form" class="subscribe_form row" name="subscribe_form" method="post" action="">
+                    <div class="form-group col-12 col-md-4">
+                        <label for="Name">Name *</label>
+                        <input id="Name" type="text" name="Name" placeholder="Name" required>
+                    </div>
+                    <div class="form-group col-12 col-md-4">
+                        <label for="Email">Email *</abbr></label>
+                        <input id="Email" type="email" name="Email" placeholder="Email" required>
+                    </div>
+                    <div class="form-group col-12 col-md-4">
+                        <label for="City">City *</label>
+                        <input id="City" type="text" name="City" placeholder="City" required>
+                    </div>
+                    <div class="action col-12 text-end">
+                        <button type="submit" class="btn btn-outline-primary poet-form-button">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </section>
+
+        <section class="blogs">
+            <div class="container col-lg-8">
+                <h2>Blogs for Refreshments</h2>
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 g-4">
+                    <div class="col">
+                        <div class="card blog-card h-100" onclick="window.location.href='blogs/jan-2024-contest.html';">
+                            <div class="card-body">
+                                <img src="https://source.unsplash.com/2gVgVf5CNAE" class="card-img-top" alt="...">
+                                <h5 class="card-title fw-bold">Unleash Your Creativity : 500-word fiction is Now Open!
+                                </h5>
+                                <p class="card-text fw-light">We are thrilled to announce the launch of the 500-word
+                                    fiction short story, a celebration ofcreativity where your words have the power to
+                                    captivate minds and hearts.</p>
+                                <div class="action text-end">
+                                    <a class="" href="blogs/jan-2024-contest.html">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card blog-card h-100"
+                            onclick="window.location.href='blogs/crafting-compelling-characters-and-storylines.html';">
+                            <div class="card-body">
+                                <img src="assets/images/blogs/writing-tip-blog-cover.jpg" class="card-img-top"
+                                    alt="...">
+                                <h5 class="card-title fw-bold">Crafting Compelling Characters and Storylines: A Guide to
+                                    Writing the Perfect Short Story</h5>
+                                <p class="card-text fw-light">Writing a short story can be a challenging yet rewarding
+                                    endeavor. To create a memorable and engaging narrative, it's essential to construct
+                                    well-developed characters and a captivating storyline.</p>
+                                <div class="action text-end">
+                                    <a class="" href="blogs/crafting-compelling-characters-and-storylines.html">Read
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="action text-end mt-4">
+                    <a href="blogs/all-blogs.html" class="btn btn-outline-primary">View All</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="reviews">
+            <div class="container col-lg-8">
+                <h2>Writers Testimonials & Reviews</h2>
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 g-4">
+                    <div class="col">
+                        <div class="card review-card h-100">
+                            <div class="card-body">
+                                <i class="bi bi-quote"></i>
+                                <p class="card-text fw-light">This publishing house exemplifies excellence, curating a
+                                    diverse collection of literary treasures that captivate readers across genres.
+                                    Impeccable quality, unparalleled variety — a true haven for bibliophiles seeking
+                                    literary gems.</p>
+                                <div class="rating">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-half"></i>
+                                </div>
+                                <div class="user">
+                                    <img src="authors/siddharth-b.jpg" class="card-img-top" alt="...">
+                                    <div class="user-info">
+                                        <h5 class="h6 card-title fw-bold">Siddharth B</h5>
+                                        <p class="profession">Sr UX Designer</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card review-card h-100">
+                            <div class="card-body">
+                                <i class="bi bi-quote"></i>
+                                <p class="card-text fw-light">An absolute gem of a publishing house, consistently
+                                    delivering top-notch reads across genres.</p>
+                                <div class="rating">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-half"></i>
+                                </div>
+                                <div class="user">
+                                    <img src="authors/ravi-n.jpg" class="card-img-top" alt="...">
+                                    <div class="user-info">
+                                        <h5 class="h6 card-title fw-bold">Ravi N</h5>
+                                        <p class="profession">Director</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="action text-end mt-4">
+                    <a href="reviews.html" class="btn btn-outline-primary">View All</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="FAQs">
+            <div class="container col-lg-8">
+                <h2>Frequently Asked Questions</h2>
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 g-4">
+                    <div class="col">
+                        <div class="card faq-card h-100">
+                            <div class="card-body">
+                                <h5 class="card-title fw-bold">Do I retain the rights to my story?
+                                </h5>
+                                <p class="card-text fw-light">Yes, of course. It's your story. However, we kindly ask
+                                    all of our winners and runner-ups to allow us to link to their winning stories on
+                                    our Past Winners page and also into our short story collection book.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card faq-card h-100">
+                            <div class="card-body">
+                                <h5 class="card-title fw-bold">Do I need to be a certain age to be eligible to enter?
+                                </h5>
+                                <p class="card-text fw-light">To be eligible to enter, participants must be at least 18
+                                    years old when the battle begins.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card faq-card h-100">
+                            <div class="card-body">
+                                <h5 class="card-title fw-bold">Does my story have to be in English?</h5>
+                                <p class="card-text fw-light">Your story should be primarily in English since the word
+                                    limit is set according to the English grammer scale.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card faq-card h-100">
+                            <div class="card-body">
+                                <h5 class="card-title fw-bold">Is this all anonymous?
+                                </h5>
+                                <p class="card-text fw-light">Absolutely. The identities of the authors and judges shall
+                                    remain anonymous throughout the contest. When the peer judging has wrapped up,
+                                    writers will be given the option to share their story on their official instagram
+                                    handle.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="action text-end mt-4">
+                    <a href="FAQs.html" class="btn btn-outline-primary">View All</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="py-5">
+        <div class="container col-lg-8 px-4">
+            <div class="nav-brand">
+                <img src="assets/brand/deccan-arts-logo-dogerblue-2.svg" alt="">
+                <h2 class="h3">Deccan Arts
+                    Publications</h2>
+            </div>
+            <div class="row pt-4 mt-4 border-top">
+                <div class="col-6 col-md-3 mb-3">
+                    <h5>Offering</h5>
+                    <ul class="nav flex-column">
+                        <li class="nav-item mb-2"><a href="500-words-fiction.html"
+                                class="nav-link fs-small p-0 text-body-secondary">500 Words
+                                Fiction</a></li>
+                        <li class="nav-item mb-2"><a href="publish-now.html"
+                                class="nav-link p-0 text-body-secondary">Poetry Slam
+                                Book</a>
+                        </li>
+                        <li class="nav-item mb-2"><a href="publish-now.html"
+                                class="nav-link p-0 text-body-secondary">Book
+                                Publishing</a></li>
+                        <li class="nav-item mb-2"><a href="contact-us.html"
+                                class="nav-link p-0 text-body-secondary">Sibling Love
+                                Story</a></li>
+                        <li class="nav-item mb-2"><a href="authors/all-authors.html"
+                                class="nav-link p-0 text-body-secondary">Authors</a>
+                        </li>
+                        <li class="nav-item mb-2"><a href="blogs/all-blogs.html"
+                                class="nav-link p-0 text-body-secondary">Blogs</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-6 col-md-3 mb-3">
+                    <h5>Our Policies</h5>
+                    <ul class="nav flex-column">
+
+                        <li class="nav-item mb-2"><a href="policy/privacy-policy.html"
+                                class="nav-link p-0 text-body-secondary">Privacy Policy</a>
+                        </li>
+                        <li class="nav-item mb-2"><a href="policy/refund-policy.html"
+                                class="nav-link p-0 text-body-secondary">Refund
+                                Policy</a>
+                        </li>
+                        <li class="nav-item mb-2"><a href="policy/shipping-and-return-policy.html"
+                                class="nav-link p-0 text-body-secondary">Shipping & Return Policy</a>
+                        </li>
+                        <li class="nav-item mb-2"><a href="policy/terms-of-service.html"
+                                class="nav-link p-0 text-body-secondary">Terms of Services</a>
+                        </li>
+                        <li class="nav-item mb-2"><a href="policy/submission-guidelines.html"
+                                class="nav-link p-0 text-body-secondary">Submission Guidelines</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="col-6 col-md-3 mb-3">
+                    <h5>Site Map</h5>
+                    <ul class="nav flex-column">
+                        <li class="nav-item mb-2"><a href="index.html" class="nav-link p-0 text-body-secondary">Home</a>
+                        </li>
+                        <li class="nav-item mb-2"><a href="about-us.html" class="nav-link p-0 text-body-secondary">About
+                                Us</a></li>
+                        <li class="nav-item mb-2"><a href="FAQs.html" class="nav-link p-0 text-body-secondary">FAQs</a>
+                        </li>
+                        <li class="nav-item mb-2"><a href="reviews.html"
+                                class="nav-link p-0 text-body-secondary">Reviews</a>
+                        </li>
+                        <li class="nav-item mb-2"><a href="contact-us.html"
+                                class="nav-link p-0 text-body-secondary">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="col-6 col-md-3 mb-3">
+                    <h5>Social Network</h5>
+                    <ul class="nav flex-column">
+                        <li class="nav-item mb-2"><a target="_blank"
+                                href="https://www.instagram.com/deccan_arts_publication/"
+                                class="nav-link p-0 text-body-secondary">
+                                <i class="bi bi-instagram"></i> Instagram </a></li>
+                        <li class="nav-item mb-2"><a target="_blank" href="https://twitter.com/DeccanArts"
+                                class="nav-link p-0 text-body-secondary"><i class="bi bi-twitter"></i> Twitter </a></li>
+                        <li class="nav-item mb-2"><a target="_blank" href="https://medium.com/@deccanarts"
+                                class="nav-link p-0 text-body-secondary"><i class="bi bi-medium"></i> Medium</a></li>
+                        <li class="nav-item mb-2"><a target="_blank" href="https://wa.me/9860005828"
+                                class="nav-link p-0 text-body-secondary"><i class="bi bi-whatsapp"></i> WhatsApp </a>
+                        </li>
+                        <li class="nav-item mb-2"><a target="_blank" href="https://facebook.com/DeccanArtsPublication"
+                                class="nav-link p-0 text-body-secondary"><i class="bi bi-facebook"></i> Facebook </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
+                <p>© 2024 Company, Inc. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!--Bootstrap JS Script -->
+    <script src="assets/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- subscirbe JS Script  -->
+    <script src="assets/dist/js/subscribe-form.js"></script>
+
+
+</body>
+
+</html>
